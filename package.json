@@ -11,12 +11,14 @@
     "url": "git+https://github.com/jonjau/url-shortener.git"
   },
   "author": "Jonathan Jauhari",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/jonjau/url-shortener/issues"
   },
   "homepage": "https://github.com/jonjau/url-shortener#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.7"
   }
 }
